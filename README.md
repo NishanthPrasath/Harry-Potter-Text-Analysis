@@ -1,9 +1,5 @@
 # A Text Analysis of the Harry Potter Book Series
 
-This is a text analysis project focused on the Harry Potter book series. The project aims to explore various natural language processing (NLP) techniques to gain insights into the beloved magical world created by J.K. Rowling.
-
-## Introduction
-
 The Harry Potter series has captivated readers worldwide with its enchanting storytelling and rich magical universe. In this project, we apply NLP techniques to uncover hidden patterns, themes, and sentiments within the text of the Harry Potter books.
 
 ## Data Preprocessing
